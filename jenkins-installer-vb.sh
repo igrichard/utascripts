@@ -78,3 +78,4 @@ echo '(This is also available from /var/lib/jenkins/secrets/initialAdminPassword
 echo
 su - jenkins
 echo ****END****
+echo ****Thanks****
